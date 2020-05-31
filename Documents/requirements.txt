@@ -1,1 +1,26 @@
+## Computing requirements
 
+TO UPDATE
+
+This project requires the following software to be installed:
+
+- R (version [3.5.0](https://cran.r-project.org) or higher)
+- RStudio Desktop (version [1.1.453](https://www.rstudio.com/products/rstudio/download/) or higher)
+- Pandoc (version [2.2.1](https://pandoc.org/installing.html) or higher)
+- A basic LaTeX system, such as [MiKTeX](https://miktex.org/download)
+
+In addition, the following R packages need to be installed for this project. For each package, dependencies must be installed as well. 
+
+- WDI (version 2.5 or higher)
+- rio (version 0.5.10 or higher)
+- tidyverse (version 1.2.1 or higher)
+- knitr (version 1.20 or higher)
+- texreg (version 1.36.23 or higher)
+- summarytools (version 0.8.3 or higher)
+
+The following code installs these packages. It needs to be executed only once. The scripts in this project load the packages where needed.
+
+```{r, eval = FALSE}
+install.packages(c("WDI", "rio", "tidyverse", "knitr", "texreg", "summarytools"),
+                 dependencies = TRUE)
+```
