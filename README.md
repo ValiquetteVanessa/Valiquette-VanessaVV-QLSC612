@@ -10,7 +10,6 @@ To have more information concerning the computer requirements, the preprocessing
 
 Under the Documents file, you will find results acquired after running the script under the Command file.
 
-Have fun :)
 
 
 
