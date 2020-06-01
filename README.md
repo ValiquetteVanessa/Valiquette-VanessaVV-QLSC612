@@ -8,7 +8,7 @@ You will find the dataset used in the Original-data file as well as a descriptio
 
 To have more information concerning the computer requirements, the preprocessing and the analysis, please visit the Command file directory.
 
-Under the Documents file, you will find plots and results acquired after running the script under the Command file.
+Under the Documents file, you will find results acquired after running the script under the Command file.
 
 Have fun :)
 
